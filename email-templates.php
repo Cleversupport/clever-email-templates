@@ -11,7 +11,7 @@
  * Plugin URI:        https://github.com/Cleversupport/clever-email-templates
  * GitHub Plugin URI: https://github.com/Cleversupport/clever-email-templates
  * Description:       Site Mailer compatible HTML email templates for WordPress.
- * Version:           1.5.16
+ * Version:           1.5.17
  * Requires at least: 4.8
  * Requires PHP:      7.1
  * Tested up to:      7.0
@@ -28,7 +28,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-define( 'MAILTPL_VERSION', '1.5.16' );
+define( 'MAILTPL_VERSION', '1.5.17' );
 define( 'MAILTPL_PLUGIN_FILE', __FILE__ );
 define( 'MAILTPL_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'MAILTPL_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
