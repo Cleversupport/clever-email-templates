@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Email Templates\n"
+"POT-Creation-Date: 2015-09-20 10:21-0300\n"
+"PO-Revision-Date: 2023-01-06 14:28+0000\n"
+"Last-Translator: Jerome Poslednik <webmaster@washaweb.com>\n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+"Report-Msgid-Bugs-To: "
+
+#: includes/class-mailtpl-customizer.php:615
+msgid "Add an image to use in header. Leave empty to use text instead"
+msgstr ""
+"Ajouter une image à l'entête. Laisser vide pour utiliser du texte à la place"
+
+#: includes/class-mailtpl-customizer.php:497
+msgid "Add border radius to your template."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:578
+msgid "Add custom css. Be aware that this may not work on all email clients."
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:98
+msgid "Add new field"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:641
+msgid "Add text to your mail header. Used for alt text when Image it's used"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1374
+msgid "Address"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:472
+msgid "Adjust border width."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:796
+msgid "Adjust padding Left/Right"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:772
+msgid "Adjust padding Top/Bottom"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1191
+msgid "Adjust your footer Left/Right padding"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1167
+msgid "Adjust your footer Top/Bottom padding"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:977
+msgid "Adjust your Left/Right padding"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:547
+msgid "Adjust your Left/Right padding."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:522
+msgid "Adjust your top bottom padding."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:953
+msgid "Adjust your top/bottom padding"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:663
+#: includes/class-mailtpl-customizer.php:1060
+msgid "Aligment"
+msgstr "Alignement"
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:832
+msgid ""
+"An error occurred trying to load this email type. Make sure this email type "
+"is enabled or please try another type."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:434
+msgid ""
+"Are you sure you want to reset all changes made to your WooCommerce emails?"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:431
+msgid "Are you sure you want to send an email?"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:428
+#: includes/class-mailtpl-customizer.php:695
+#: includes/class-mailtpl-customizer.php:853
+#: includes/class-mailtpl-customizer.php:1092
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#. Description of the plugin
+msgid "Beautify WordPress default emails"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:537
+msgid "Black"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:450
+msgid "Border Color"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:496
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:471
+msgid "Border Width"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:512
+msgid "Bundled Icon"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:534
+msgid "Bundled Icon Color"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1382
+msgid "Button"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1038
+msgid "Change the email footer here"
+msgstr "Changer le pied de page ici"
+
+#: includes/class-mailtpl-customizer.php:1214
+msgid "Change your footer font style"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:458
+msgid "Choose a Bundled Icon"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1070
+msgid "Choose alignment for footer"
+msgstr "Changer l'alignement du pied de page"
+
+#: includes/class-mailtpl-customizer.php:673
+msgid "Choose alignment for header"
+msgstr "Choix de l'alignement pour l'entête"
+
+#: includes/class-mailtpl-customizer.php:910
+msgid "Choose body text color"
+msgstr "Choix de la couleur du texte du corps"
+
+#: includes/class-mailtpl-customizer.php:402
+msgid "Choose boxed size"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:431
+msgid "Choose email background color"
+msgstr "Coisir une couleur de fond pour l'E-mail"
+
+#: includes/class-mailtpl-customizer.php:856
+msgid "Choose email body background color"
+msgstr "Choix de la couleur de fond pour le corps "
+
+#: includes/class-mailtpl-customizer.php:1095
+msgid "Choose footer background color"
+msgstr "Changer la couleur de fond du pied de page"
+
+#: includes/class-mailtpl-customizer.php:1148
+msgid "Choose footer text color"
+msgstr "Changer la couleur du texte du pied de page"
+
+#: includes/class-mailtpl-customizer.php:698
+msgid "Choose header background color"
+msgstr "Choix de la couleur de fond pour l'entête"
+
+#: includes/class-mailtpl-customizer.php:753
+msgid "Choose header text color"
+msgstr "Choix de la couleur du texte de l'entête"
+
+#: includes/class-mailtpl-customizer.php:934
+msgid "Choose links color"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:365
+msgid "Choose one"
+msgstr "Choisir une option"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:33
+msgid ""
+"Click the button below to export the customization settings for this plugin."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:574
+msgid "Custom css"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:493
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:513
+msgid "Custom Upload Icon"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-woo.php:99
+msgid "Customize WooCommerce Emails"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:820
+msgid "Customize your text by changing the font"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:103
+msgid "Customizer Repeater"
+msgstr ""
+
+#. %1$s for section title.
+#: includes/customize-sections/class-mailtpl-sections.php:44
+#, php-format
+msgid "Customizing &#9656; %1$s"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:308
+#: includes/class-mailtpl-customizer.php:333
+msgid "Default: "
+msgstr "Par défaut"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:331
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:383
+msgid "Delete field"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1245
+msgid "Display a tiny link to the plugin page"
+msgstr "Afficher un lien en direction de la page du plugin"
+
+#: includes/class-mailtpl-customizer.php:113
+msgid "Email Body"
+msgstr "Corps d'e-mail"
+
+#: includes/class-mailtpl-customizer.php:399
+msgid "Email body size"
+msgstr ""
+
+#: preview.php:30
+msgid "Email Composer"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:433
+msgid "Email failed, make sure you have a working email server for your site."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:106
+msgid "Email Header"
+msgstr "En-tête d'e-mail"
+
+#: includes/customize-controls/class-mailtpl-send-mail-customize-control.php:45
+msgid "Email Send !"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:432
+#, fuzzy
+#| msgid "Email sent!"
+msgid "Email Sent!"
+msgstr "E-mail Envoyé !"
+
+#. Name of the plugin
+#: admin/class-mailtpl-admin.php:174 admin/class-mailtpl-admin.php:175
+#: admin/class-mailtpl-admin.php:298
+msgid "Email Templates"
+msgstr "Modèle d'e-mail"
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:247
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:251
+msgid ""
+"Error importing settings! Please check that you uploaded an email customizer "
+"export file."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:228
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:255
+msgid ""
+"Error importing settings! The settings you uploaded are not for the Mailtpl "
+"Woomail Composer."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:353
+msgid "Error importing settings! The template you selected is not found."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:357
+#: includes/woocommerce-customizer/class-mailtpl-woomail-import-export.php:361
+msgid "Error importing settings! The template you selected is not valid."
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:30
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:35
+msgid "Export"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:998
+msgid "Font family"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1213
+msgid "Font Style"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:120
+msgid "Footer"
+msgstr "Peid de page"
+
+#: includes/class-mailtpl-customizer.php:1034
+msgid "Footer text"
+msgstr "Texte du pied de page"
+
+#: includes/class-mailtpl-customizer.php:329
+msgid "From Email"
+msgstr "De (e-mail)"
+
+#: includes/class-mailtpl-customizer.php:304
+msgid "From name"
+msgstr "De (nom)"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:539
+msgid "Gray"
+msgstr ""
+
+#: email-templates.php:371 email-templates.php:377
+msgid "Guest"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:424
+msgid "Hello! This is an example note"
+msgstr ""
+
+#: admin/templates/partials/default-message.php:12
+msgid "Here you will see the email content that is normally sent in WordPress."
+msgstr ""
+"Ici, vous verrez s'afficher le contenu de l'email qui sera normalement "
+"envoyé dans WordPress."
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/email-templates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wpexperts.io/"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:40
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:50
+msgid "Import"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:546
+#: includes/class-mailtpl-customizer.php:976
+msgid "Left/Right padding"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:307
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:374
+msgid "Link"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:931
+#, fuzzy
+#| msgid "Link Color"
+msgid "Links Color"
+msgstr "Couleur du Lien"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-template-load-control.php:39
+#: includes/customize-controls/class-wp-customize-mailtpl-template-load-control.php:56
+msgid "Load Template"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-template-load-control.php:54
+msgid "Loading and Saving..."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:611
+#: includes/class-mailtpl-customizer.php:637
+msgid "Logo"
+msgstr "Logo"
+
+#. %1$s for link URL %2$s for link URL.
+#: includes/woocommerce-customizer/class-mailtpl-woomail-woo.php:111
+#, php-format
+msgid ""
+"Make Woocommerce Emails match your brand. <a href=\"%1$s\">Email "
+"Templates</a> plugin by <a href=\"%2$s\">wpexpertsio</a>."
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:514
+msgid "None"
+msgstr ""
+
+#: admin/class-mailtpl-admin.php:299
+msgid "Now you can edit your email template right in the Appearance menu"
+msgstr ""
+"Maintenant, vous pouvez modifier votre thème directement dans le menu "
+"apparence"
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-woo.php:103
+msgid "Open Woocommerce Email Composer"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-woo.php:104
+msgid "Open Woocommerce Email Editor"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1366
+msgid "Order Items"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:795
+#: includes/class-mailtpl-customizer.php:1190
+msgid "Padding Left/Right"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:521
+#: includes/class-mailtpl-customizer.php:771
+#: includes/class-mailtpl-customizer.php:1166
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: email-templates.php:293 email-templates.php:295
+msgid "Pay for this order"
+msgstr ""
+
+#: email-templates.php:306 email-templates.php:308 email-templates.php:315
+#: email-templates.php:317 email-templates.php:325 email-templates.php:327
+msgid "Pay Now &raquo;"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1237
+msgid "Powered by"
+msgstr "Fièrement Propulsé par"
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:429
+msgid "Reset"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:257
+msgid "Save"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:1282
+msgid ""
+"Save the template and then click the button to send a test email to admin "
+"email "
+msgstr ""
+"Sauvegarder le modèle et cliquer sur le bouton pour envoyer un test à "
+"l'email de l'administrateur "
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:259
+msgid "Saved"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:451
+msgid "Select color for border."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:999
+msgid "Select font family for your body text"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:819
+msgid "Select header font"
+msgstr ""
+
+#: includes/customize-controls/class-mailtpl-send-mail-customize-control.php:44
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-send-email-control.php:37
+msgid "Send Email"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:127
+#: includes/class-mailtpl-customizer.php:1278
+msgid "Send test email"
+msgstr "Envoyer un e-mail de Test"
+
+#: includes/class-mailtpl-customizer.php:92
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-send-email-control.php:36
+msgid "Settings must be saved to send preview email."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:724
+#: includes/class-mailtpl-customizer.php:881
+#: includes/class-mailtpl-customizer.php:1120
+msgid "Slide to change text size"
+msgstr "Faire glisser pour changer la taille du texte"
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:509
+msgid "Social Image Source"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-send-email-control.php:38
+msgid ""
+"Some emails will not work correctly with the mockup order. It is best to use "
+"a real order for sending preview emails."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:99
+msgid "Template"
+msgstr "Modèles"
+
+#: includes/class-mailtpl-customizer.php:750
+#: includes/class-mailtpl-customizer.php:907
+#: includes/class-mailtpl-customizer.php:1145
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/class-mailtpl-customizer.php:720
+#: includes/class-mailtpl-customizer.php:877
+#: includes/class-mailtpl-customizer.php:1116
+msgid "Text size"
+msgstr "Taille du texte"
+
+#: admin/templates/partials/default-message.php:17
+msgid ""
+"The email template is responsive an fully customizable. I hope you enjoy it!"
+msgstr ""
+"Le modèle de thème de courrier électronique est optimisé pour les "
+"smartphones et les tablettes et entièrement personnalisable. J'espère qu'il "
+"vous plaira !"
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:758
+msgid ""
+"This email type can not be previewed please try a different order or email "
+"type."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:760
+msgid ""
+"This email type requires that an order containing a subscription be selected "
+"as the preview order."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:766
+msgid ""
+"This email type requires that an order containing a user who has an active "
+"membership be selected as the preview order."
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:764
+msgid ""
+"This email type requires that an order containing a vendor purchase be "
+"selected as the preview order."
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:297
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:364
+msgid "Title"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-preview.php:762
+msgid ""
+"To generate a preview of this email type you must choose an order containing "
+"a subscription which has also failed to auto renew as the preview order in "
+"the settings."
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:952
+msgid "Top/Bottom padding"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:43
+msgid "Upload a file to import customization settings for this plugin."
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:496
+msgid "Upload Image"
+msgstr ""
+
+#: includes/customize-controls/class-wp-customize-mailtpl-import-export-control.php:49
+msgid "Uploading..."
+msgstr ""
+
+#. %1$s for WordPress support url.
+#: admin/templates/partials/default-message.php:24
+#, fuzzy
+#| msgid ""
+#| "We would like to ask you a little favour. If you are happy with the "
+#| "plugin and can take a minute please <a href=\"%s\" target=\"_blank\">"
+#| "leave a nice review</a> on WordPress. It will be a tremendous help for us!"
+msgid ""
+"We would like to ask you a little favour. If you are happy with the plugin "
+"and can take a minute please <a href=\"%1$s\" target=\"_blank\">leave a nice "
+"review</a> on WordPress. It will be a tremendous help for us!"
+msgstr ""
+"Nous aimerions vous demander une petite faveur. Si vous aimez ce plugin, "
+"prenez une minute pour <a href=\"%s\" target=\"_blank\">laisser votre "
+"apréciation</a> sur Wordpress. Cela nous permettra de nous améliorer."
+
+#: includes/customize-controls/class-wp-customize-mailtpl-repeater-control.php:538
+msgid "White"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:83
+msgid ""
+"Within the Email Templates customizer you can change how your WordPress "
+"Emails looks. It's fully compatible with WooCommerce and Easy Digital "
+"Downloads html emails"
+msgstr ""
+"Dans le personnalisateur de modèles d'emails, vous pouvez changer "
+"l'apparence des e-mails de WordPress. Le plugin est entièrement compatible "
+"avec WooCommerce et Easy Digital Downloads html emails."
+
+#: includes/class-mailtpl-customizer.php:1355
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-woo.php:68
+msgid "Woocommerce Email Composer"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:316
+msgid "WooCommerce Emails"
+msgstr ""
+
+#: includes/woocommerce-customizer/class-mailtpl-woomail-customizer.php:430
+msgid "Woocommerce Emails"
+msgstr ""
+
+#: includes/class-mailtpl-customizer.php:82
+msgid "Wordpress Email Templates"
+msgstr ""
+
+#: includes/class-mailtpl-mailer.php:107
+msgid "Wp Email Templates"
+msgstr "Wp Email Templates"
+
+#. Author of the plugin
+msgid "WPExperts.io"
+msgstr ""
+
+#: admin/templates/partials/default-message.php:33
+msgid ""
+"You can use any of these placeholders in your emails content or templates "
+"and they will be automatically replaced"
+msgstr ""
+"Vous pouvez utiliser l'un de ces espaces réservés dans votre contenu ou dans "
+"vos modèles de courirers électroniques, ils seront automatiquement remplacés"

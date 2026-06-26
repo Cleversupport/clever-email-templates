@@ -1,0 +1,21 @@
+.in-sub-panel #customize-theme-controls .customize-pane-child.current-panel-parent,
+#customize-theme-controls .customize-pane-child.current-section-parent {
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    transform: translateX(-100%);
+}
+li#accordion-section-mailtpl_postman_smtp_marketing button::after{
+    content:'New';
+    text-align:center;
+    margin-left:auto;
+     background: blueviolet;
+    color: #fff;
+    padding: 3px 6px;
+    border-radius: 12px;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display:inline-block;
+    width:40px;
+    height:15px; 
+}
