@@ -1,0 +1,43 @@
+name: Build WordPress Plugin Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build plugin ZIP
+        run: |
+          TAG_NAME="${GITHUB_REF_NAME}"
+          PLUGIN_SLUG="clever-email-templates"
+          ZIP_NAME="${PLUGIN_SLUG}-${TAG_NAME}.zip"
+
+          mkdir -p "build/${PLUGIN_SLUG}"
+
+          rsync -av ./ "build/${PLUGIN_SLUG}/" \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='.gitignore' \
+            --exclude='build' \
+            --exclude='*.zip'
+
+          cd build
+          zip -r "../${ZIP_NAME}" "${PLUGIN_SLUG}"
+          cd ..
+
+          echo "ZIP_NAME=${ZIP_NAME}" >> "$GITHUB_ENV"
+
+      - name: Publish release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ env.ZIP_NAME }}
